@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaklecoovKoordRight</string>
+    <string name="graph1">sin<sup>2</sup>(x) – 3cos(x)</string>
+    <string name="graph2">y<sup>2</sup>/100 + x<sup>2</sup>/64 – 1</string>
+</resources>
